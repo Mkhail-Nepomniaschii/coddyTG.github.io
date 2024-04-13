@@ -1,0 +1,14 @@
+
+body {
+    max-width: 390px;
+}
+
+p{
+    color:blue;
+    font-size:15px;
+    text-align:center;
+    background:#F0E68C
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
