@@ -3,7 +3,7 @@ tg.expand();
 
 let button=document.getElementById('click');
 
-button.onclick=()=>{
+button.onclick= () =>{
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
     }
